@@ -5,6 +5,8 @@ public class hello {
         System.out.println("更新二");
         System.out.println("创建分支");
         System.out.println("主干提交");
+        System.out.println("创建分支");
+        System.out.println("提交分支");
 
 
     }
